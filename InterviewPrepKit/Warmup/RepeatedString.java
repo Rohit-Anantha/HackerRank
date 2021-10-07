@@ -1,4 +1,4 @@
-package InterviewPrepKit;
+package InterviewPrepKit.Warmup;
 
 public class RepeatedString {
     public static long repeatedString(String s, long n) {

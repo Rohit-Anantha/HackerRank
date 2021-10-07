@@ -1,4 +1,4 @@
-package InterviewPrepKit;
+package InterviewPrepKit.Warmup;
 
 import java.util.List;
 
